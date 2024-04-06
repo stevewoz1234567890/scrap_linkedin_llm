@@ -1,0 +1,5 @@
+the task: implement the fulfill_goal & the next action function 
+#effect: no-effect 
+#signature: next_action(page_content:str, goal:str) -> List[str] 
+#return-value: returns the best next-actions 
+#test cases: page_content (s. link), goal= Go to https://www.linkedin.com/company/wayzim/life #precondition: none
